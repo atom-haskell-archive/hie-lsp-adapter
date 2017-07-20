@@ -1,5 +1,7 @@
 # hie-lsp-adapter package
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/atom-haskell/hie-lsp-adapter.svg)](https://greenkeeper.io/)
+
 Quick-and-dirty haskell-ide-engine support package for Atom based on atom-languageclient.
 
 *** This package is in early alpha ***
