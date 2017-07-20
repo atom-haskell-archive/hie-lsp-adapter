@@ -1,0 +1,2 @@
+'atom-text-editor[data-grammar~="haskell"]':
+  'f2': 'hie-lsp-adapter:rename'
