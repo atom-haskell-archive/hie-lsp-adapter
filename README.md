@@ -1,4 +1,4 @@
-# hie-lsp-adapter package
+# hie-lsp-adapter package ![](https://david-dm.org/atom-haskell/hie-lsp-adapter.svg)
 
 Quick-and-dirty haskell-ide-engine support package for Atom based on atom-languageclient.
 
