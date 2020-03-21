@@ -9,7 +9,7 @@
     "atom": ">=1.17.0"
   },
   "dependencies": {
-    "atom-languageclient": "^0.1.0"
+    "atom-languageclient": "./atom-languageclient"
   },
   "consumedServices": {
     "linter-indie": {
@@ -20,6 +20,11 @@
     "nuclide-datatip.provider": {
       "versions": {
         "0.0.0": "consumeDatatip"
+      }
+    },
+    "ide-haskell-upi": {
+      "versions": {
+        "0.3.0": "consumeIdeHaskellUPI"
       }
     }
   },

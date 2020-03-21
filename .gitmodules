@@ -1,0 +1,3 @@
+[submodule "atom-languageclient"]
+	path = atom-languageclient
+	url = git@github.com:atom-haskell/atom-languageclient.git
